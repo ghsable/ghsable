@@ -2,9 +2,9 @@
 # anuraghazra/github-readme-stats
 # https://github.com/anuraghazra/github-readme-stats
 -->
-![suna's github stats](https://github-readme-stats.vercel.app/api?username=ghsable&show_icons=true&theme=chartreuse-dark)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghsable&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghsable&show_icons=true&theme=default)
 
 <!--
 **ghsable/ghsable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
