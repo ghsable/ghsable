@@ -2,13 +2,13 @@
 # anuraghazra/github-readme-stats
 # https://github.com/anuraghazra/github-readme-stats
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghsable&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghsable&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghsable)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghsable&show_icons=true&count_private=true&line_height=40&theme=default)
 
 <!--
 **ghsable/ghsable** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### Hi there, I'm suna! 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
