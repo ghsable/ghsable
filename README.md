@@ -2,7 +2,7 @@
 # lowlighter/metrics
 # https://github.com/lowlighter/metrics
 -->
-![Metrics](https://metrics.lecoq.io/ghsable?template=classic&base.metadata=0&languages=1&isocalendar=1&isocalendar.duration=full-year&languages.ignored=HTML%2C%20CSS%2C%20Scheme%2C%20Ruby%2C%20Perl%2C%20Makefile%2C%20Vim%20script%2C%20Turing%2C%20Haskell&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FTokyo)
+![Metrics](https://metrics.lecoq.io/ghsable?template=terminal&base.header=0&base.community=0&base.repositories=0&languages=1&languages.ignored=perl%2Cscheme%2Cruby%2Cturing%2Cmakefile&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming%2C&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&config.timezone=Asia%2FTokyo)
 
 <!--
 # anuraghazra/github-readme-stats
