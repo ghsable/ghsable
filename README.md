@@ -2,7 +2,7 @@
 # lowlighter/metrics
 # https://github.com/lowlighter/metrics
 -->
-![Metrics](https://raw.githubusercontent.com/ghsable/ghsable/main/github-metrics.svg)
+![github-metrics.svg](https://raw.githubusercontent.com/ghsable/ghsable/main/github-metrics.svg)
 <!--
 # anuraghazra/github-readme-stats
 # https://github.com/anuraghazra/github-readme-stats
